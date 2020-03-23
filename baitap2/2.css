@@ -1,0 +1,29 @@
+article{
+    width: 400px;
+    height: 480px;
+    margin-left: 20px;
+    background-color: lightgray;
+}
+div{
+    position: relative;
+    left: 10px;
+    right: 20px;
+}
+a{
+    margin-top: 40px;
+    opacity: 15;
+    text-decoration: none;
+    color: black;
+    font-family: tahoma;
+    font-size: 19px;
+    font-weight: bolder;
+}
+p{
+    opacity: 0.5;
+    font-family:  Helvetica;
+    font-weight: lighter;
+    font-size: 15px;
+}
+img{
+    width: 400px;
+}

@@ -1,0 +1,23 @@
+article{
+	width: 340px;
+	height: 518px;
+	font-family: tahoma;
+}
+a {
+	text-decoration: none;
+	font-size: 22px;
+	font-family: tahoma;
+	color: black;
+	font-weight: bold;
+}
+
+p {
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Helvetica;
+	text-align: justify;
+	font-weight: lighter;
+}
+p {
+    font-weight: bolder;	
+}

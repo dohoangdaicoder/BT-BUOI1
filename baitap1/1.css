@@ -1,0 +1,45 @@
+div{
+    position: relative;
+    left: 10px;
+    right: 10px;
+    width: 410px;
+    height: 470px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    margin-left: 6px;
+    margin-top:  6px;
+    overflow: hidden;
+    background-image: url(bg.png);
+}
+a {
+    position: relative;
+    left: 10px;
+    right: 10px;
+    top: 5px;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 20.5px;
+    font-family: tahoma;
+    font-weight: bolder;
+    text-decoration: none;
+    color: orangered;
+    opacity: 1;
+}
+p{
+    position: relative;
+    left: 10px;
+    right: 10px;
+    top: 15px;
+    opacity: 0.8;
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: lighter;
+}
+img{
+    border-width: 0.2px;
+    border-bottom: red;
+    border-color: red;
+    border-style: solid;
+    width: 430px;
+}
